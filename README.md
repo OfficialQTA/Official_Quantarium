@@ -6,7 +6,7 @@ Quantarium은 차세대 양자 내성 보안 기술(PQC)을 기반으로 글로�
 
 ## 🚀 Key Technologies
 Native PQC Layer 1 : 기존 체인의 패치 방식이 아닌, 제네시스 블록부터 PQC를 적용하여 레거시 취약점을 원천 제거했습니다.
-NIST Standard Compliant : 미국 NIST 표준 알고리즘인 **FIPS 205 SPHINCS+**를 준수합니다. 
+NIST Standard Compliant : 미국 NIST 표준 알고리즘인 FIPS 205 SPHINCS+를 준수합니다. 
 QUANTA-X Engine : ETRI(국가연구기관) 기술 이전을 기반으로 한 독자적 암호화 엔진을 보유하고 있습니다.
 High-Performance PoA : PoA(Proof of Authority) 합의 알고리즘을 통해 고속 처리와 즉각적인 최종성을 보장합니다.
 
