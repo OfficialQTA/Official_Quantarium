@@ -16,8 +16,8 @@ SECURET Quantum Smart TV : 양자 보안 기술이 적용된 스마트 홈 케�
 SAYPOT : 텔레그램 기반의 간편 지갑 및 T2E 미니게임 생태계.
 
 ## 📊 Infrastructure
-Mainnet Explorer : [scan.quantarium.io] https://scan.quantarium.io/
-Official Website : [quantarium.io] https://quantarium.io/
+Mainnet Explorer : https://scan.quantarium.io/
+Official Website : https://quantarium.io/
 
 ## 📧 Contact
 Email : Quantarium1004@gmail.com
