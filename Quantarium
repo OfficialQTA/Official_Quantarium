@@ -1,3 +1,5 @@
+🛡️ Defeating the "Harvest Now, Decrypt Later" Threat with Quantarium PQC
+
 The Problem: Harvesting Today for Decryption Tomorrow
 Traditional cryptographic standards like RSA and ECDSA are vulnerable to Shor's algorithm. While fault-tolerant quantum computers are still evolving, threat actors are currently archiving encrypted traffic (HNDL strategy). This means today's "secure" data is effectively a ticking time bomb.
 
